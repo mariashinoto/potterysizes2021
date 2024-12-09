@@ -80,11 +80,11 @@ Another R code file `code--models-diagrams.R` contains several paths to creating
 ```
 @software{Shinoto_potterysizes2021_2024,
 author = {Shinoto, Maria},
-doi = {10.5281/zenodo.14292071},
+doi = {10.5281/zenodo.14292070},
 month = dec,
 title = {{potterysizes2021}},
 url = {https://github.com/mariashinoto/potterysizes2021},
-version = {0.1},
+version = {v0.9},
 year = {2024}
 }
 ```
