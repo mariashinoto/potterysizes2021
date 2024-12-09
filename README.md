@@ -84,7 +84,7 @@ doi = {10.5281/zenodo.14292070},
 month = dec,
 title = {{potterysizes2021}},
 url = {https://github.com/mariashinoto/potterysizes2021},
-version = {v0.9},
+version = {v0.2},
 year = {2024}
 }
 ```
